@@ -18,7 +18,6 @@
       <groupId>org.jbehave</groupId>
       <artifactId>jbehave-core</artifactId>
       <version>${jbehave.core.version}</version>
-      <scope>intgr-test</scope>
     </dependency>
     <dependency>
       <groupId>org.jbehave</groupId>
@@ -26,7 +25,6 @@
       <version>${jbehave.core.version}</version>
       <classifier>resources</classifier>
       <type>zip</type>
-      <scope>intgr-test</scope>
     </dependency>
     <dependency>
       <groupId>org.jbehave.site</groupId>
